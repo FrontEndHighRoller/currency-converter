@@ -61,7 +61,7 @@ fetchExchangeRates();}, [startCurrency]
           gap: "10px",
         }}
       >
-        <h1>Currency Converter</h1>
+        <h1 style={{color: "black"}}>Currency Converter</h1>
 
         <label htmlFor="currencyInput">
           Start Currency to Target Currency Conversion
