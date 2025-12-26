@@ -2,7 +2,7 @@
 
 > A real-time currency converter built with React that fetches live exchange rates from an external API and converts between over 150 global currencies instantly.
 
-![Image thumbnail](./assets/images/thumbnail-1.png)
+![Image thumbnail](thumbnail-1.png)
 
 ---
 
