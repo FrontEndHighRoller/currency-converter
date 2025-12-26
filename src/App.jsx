@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import exchangeSvg from "../exchange.png";
 
 export default function App() {
   const [startCurrency, setStartCurrency] = useState("USD");
@@ -61,6 +62,10 @@ fetchExchangeRates();}, [startCurrency]
           gap: "10px",
         }}
       >
+        <img 
+        src={exchangeSvg} 
+        alt="Exchange"
+        style={{width: "80px", margin: "0 auto"}} />
         <h1>Currency Converter</h1>
 
         <label htmlFor="currencyInput">
