@@ -48,7 +48,8 @@
 - Convert between **any supported currency pair**  
 - Real-time calculation as the user types  
 - Clean and minimal UI design  
-- Error handling for failed API requests  
+- Error handling for failed API requests
+- Fully responsive up to 320px device width
 - Fully client-side React application  
 
 ---
@@ -68,3 +69,14 @@
     npm run dev
     
 4. Open the app in your browser and start converting 💸
+
+---
+
+🙋‍♂️ Author
+Dennis Rumanek
+
+GitHub: https://github.com/FrontEndHighRoller
+
+LinkedIn: https://www.linkedin.com/in/dennis-rumanek/
+
+⭐ If you like this solution, feel free to star the repository!
